@@ -7,5 +7,3 @@
 * 🌱 I’m learning how to create Microsoft Azure AI solutions
 * 🏓 I have a separate [personal GitHub profile](https://github.com/n-crrn)
 * ⚡ Fun fact: I have driven across the Nullarbor Plain 4 times (I do not recommend doing it more than once)
-
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncn-ssw&theme=onedark&show_icons=true)
